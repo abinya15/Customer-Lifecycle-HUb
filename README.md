@@ -33,12 +33,18 @@ Key Insight: Identified that Usage Velocity is the primary leading indicator of 
 
 Visuals: MRR at Risk cards, ROC Curve, and Relative Behavioral Driver weights.
 
+<img width="1387" height="742" alt="Executive Insights" src="https://github.com/user-attachments/assets/d4039c25-76fa-4313-8241-154c81431c4c" />
+
+
 ### 2. Support Integrity (The "Why")
 Goal: Identify operational friction causing churn.
 
 Key Insight: Discovered a correlation between 56-hour Resolution Times and high churn probability.
 
 Visuals: SLA Breach Rate, First Response Time (FRT), and Friction Score vs. Risk scatter plots.
+
+<img width="1322" height="740" alt="Support Integrity" src="https://github.com/user-attachments/assets/83fbf69a-a1c0-4aab-b3f6-81f0256fe881" />
+
 
 ### 3. Revenue Expansion (The "Opportunity")
 Goal: Offensive growth strategy.
@@ -47,6 +53,9 @@ Key Insight: Uncovered $43K in immediate expansion opportunity by targeting heal
 
 Visuals: Upsell Quadrant (Health vs. Velocity) and Seat-to-Expansion Ratios.
 Open Dashboard: Open dashboard/Customer_Lifecycle_Hub.pbix in Power BI Desktop.
+
+<img width="1322" height="740" alt="Revenue   Expansion" src="https://github.com/user-attachments/assets/b8828e1f-34b5-4aa4-9741-38d97c9f2d83" />
+
 
 ## 🧠 Lessons Learned
 Security First: Transitioned from hardcoded credentials to professional secret management using environment variables.
