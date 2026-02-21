@@ -1,6 +1,8 @@
 # Customer-Lifecycle-HUb
 
 <img width="2653" height="960" alt="image" src="https://github.com/user-attachments/assets/12c4f3f4-eeb5-462f-9da8-14725df5656e" />
+
+
 Predictive Churn & Revenue Expansion Hub
 An End-to-End Data Science Solution for SaaS Lifecycle Management
 
@@ -39,14 +41,6 @@ Goal: Offensive growth strategy.
 Key Insight: Uncovered $43K in immediate expansion opportunity by targeting healthy accounts nearing seat capacity.
 
 Visuals: Upsell Quadrant (Health vs. Velocity) and Seat-to-Expansion Ratios.
-
-🛠️ Installation & Setup
-Clone the Repo: git clone https://github.com/your-username/churn-hub.git
-
-Environment Variables: Create a .Renviron file in the root directory and add your AZURE_STORAGE_KEY.
-
-Run Ingestion: Execute scripts/01_data_ingestion.R to refresh the Gold Layer.
-
 Open Dashboard: Open dashboard/Customer_Lifecycle_Hub.pbix in Power BI Desktop.
 
 🧠 Lessons Learned
